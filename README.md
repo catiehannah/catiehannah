@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @catiehannah
 - 👀 I’m interested in learing about Git Hub
-- 🌱 I’m currently learning HTML/CSS/JavaScript
-- 💞️ I’m looking to collaborate on beginning web apps
+- 🌱 I’m currently developing a datawarehouse solution for tableau reporting
+- 💞️ I’m looking to collaborate on data warehouse best practices
 - 📫 How to reach me: catiehannah@gmail.com
 
 <!---
